@@ -1,6 +1,6 @@
 ## Scullcom Electronic DC Load Frontpanel
 
-Front panel for a this excellent [Scullcom Hobby Electronics Electronic DC Load](http://www.scullcom.uk/design-build-an-electronic-dc-load-part-1/).  Designed to fit in a Hammond Manufacturing 1402KV
+Front panel for this excellent [Scullcom Hobby Electronics Electronic DC Load](http://www.scullcom.uk/design-build-an-electronic-dc-load-part-1/).  Designed to fit in a Hammond Manufacturing 1402KV
 
 ![Layout](https://github.com/phelpsw/scullcom-dc-load-frontpanel/raw/master/images/layout.png)
 
