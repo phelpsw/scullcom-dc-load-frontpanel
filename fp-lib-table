@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name p_panel_holes)(type KiCad)(uri /home/pwilliams/projects/kicad-libs-phelps/p_panel_holes.pretty)(options "")(descr ""))
+)
