@@ -15,6 +15,7 @@ Front panel for this excellent [Scullcom Hobby Electronics Electronic DC Load](h
 | Binding Post Red | 2 | 36-4093-ND |
 | Binding Post Black | 2 | 36-4094-ND |
 | DPDT Switch | 1 | EG2398-ND |
+| USB B Female | 1 | SC2490-ND |
 | Power Button | 1 | KB16RKW01B-ND |
 | Power Button Cap | 1 | AT4021CC-ND |
 | LCD Standoff | 4 |      |
