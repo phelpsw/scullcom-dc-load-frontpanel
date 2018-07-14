@@ -62,7 +62,7 @@
     (pad_drill 24)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFFF6F)
+    (visible_elements FFFFFFFF)
     (pcbplotparams
       (layerselection 0x012f0_80000001)
       (usegerberextensions false)
@@ -305,7 +305,7 @@
   (gr_text "DC Electronic Load" (at 79.25 23) (layer F.SilkS)
     (effects (font (size 3 3) (thickness 0.6)))
   )
-  (gr_text "Sense\nEnabled" (at 90 83.75) (layer F.SilkS)
+  (gr_text "Sense\nEnabled" (at 85 83.75) (layer F.SilkS)
     (effects (font (size 2 2) (thickness 0.45)))
   )
   (gr_text Load (at 46.75 82) (layer F.SilkS)
