@@ -4,6 +4,8 @@ Front panel for this excellent [Scullcom Hobby Electronics Electronic DC Load](h
 
 ![Image](https://github.com/phelpsw/scullcom-dc-load-frontpanel/raw/master/images/image.jpg)
 
+![ImageTop](https://github.com/phelpsw/scullcom-dc-load-frontpanel/raw/master/images/image2.jpg)
+
 ![Layout](https://github.com/phelpsw/scullcom-dc-load-frontpanel/raw/master/images/layout.png)
 
 | Part     | Qty | Link |
